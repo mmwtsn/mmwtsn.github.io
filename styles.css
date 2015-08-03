@@ -1,0 +1,32 @@
+html {
+  border-top: solid 10px #4489da;
+  color: #333;
+  font-family: 'Playfair Display', 'Helvetica Neue', sans-serif;
+  line-height: 1.5;
+}
+
+main {
+  margin: 0 auto;
+  max-width: 600px;
+  padding: 10% 10% 0;
+  width: 80%;
+}
+
+h1 {
+  font-size: 3rem;
+  font-style: italic;
+  font-weight: 900;
+}
+
+p {
+  font-size: 1.2rem;
+}
+
+a {
+  color: #4489da;
+}
+
+.reverse {
+  direction: rtl;
+  unicode-bidi: bidi-override;
+}
