@@ -1,6 +1,6 @@
 html {
   color: #333;
-  font-family: 'Playfair Display', 'Helvetica Neue', sans-serif;
+  font-family: 'IBM Plex Sans',-apple-system,BlinkMacSystemFont,sans-serif;
   line-height: 1.5;
 }
 
@@ -12,6 +12,7 @@ main {
 }
 
 h1 {
+  font-family: 'IBM Plex Serif',-apple-system,BlinkMacSystemFont,serif;
   font-size: 3rem;
   font-style: italic;
   font-weight: 900;
