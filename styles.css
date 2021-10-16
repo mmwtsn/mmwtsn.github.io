@@ -12,6 +12,7 @@ main {
 }
 
 h1 {
+  color: #4489da;
   font-family: 'IBM Plex Serif',-apple-system,BlinkMacSystemFont,serif;
   font-size: 3rem;
   font-style: italic;
